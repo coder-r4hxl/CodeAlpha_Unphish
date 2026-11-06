@@ -1,0 +1,6 @@
+{
+  "name": "UnPhish",
+  "description": "Interactive cybersecurity awareness and phishing education platform. Learn social engineering defense, email analysis, URL inspection, and incident response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
